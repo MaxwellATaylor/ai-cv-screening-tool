@@ -60,12 +60,14 @@ http://localhost:8501
 
 ## Screenshots
 
+### Homepage
+![Homepage](images/homepage.png)
+
 ### Upload CV and Paste Job Description
-![Upload](ai-cv-screening-tool/Images
-/2.png)
+![Upload](images/upload.png)
 
 ### AI Summary
-![Summary](images/3.png)
+![Summary](images/summary.png)
 
 ### CV Scoring
-![Scoring](images/4.png)
+![Scoring](images/scoring.png)
