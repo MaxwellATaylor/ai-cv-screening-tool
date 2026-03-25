@@ -47,4 +47,13 @@ http://localhost:8501
 - AI-powered CV summarisation  
 - CV vs Job Description scoring  
 - Recruiter-style insights  
-- Simple web interface using Streamlit  
+- Simple web interface using Streamlit
+
+## What I Learned
+
+- Built a Streamlit web application from scratch  
+- Integrated OpenAI API for real-world use  
+- Processed and extracted data from PDF files  
+- Learned how to structure and deploy a Python project  
+- Secured API keys using environment variables  
+
