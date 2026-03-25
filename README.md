@@ -57,3 +57,14 @@ http://localhost:8501
 - Learned how to structure and deploy a Python project  
 - Secured API keys using environment variables  
 
+
+## Screenshots
+
+### Upload CV and Paste Job Description
+![Upload](images/2.png)
+
+### AI Summary
+![Summary](images/3.png)
+
+### CV Scoring
+![Scoring](images/4.png)
