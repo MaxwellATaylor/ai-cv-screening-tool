@@ -49,7 +49,7 @@ http://localhost:8501
 - Recruiter-style insights  
 - Simple web interface using Streamlit
 
-## What I Learned
+## What I Learnt
 
 - Built a Streamlit web application from scratch  
 - Integrated OpenAI API for real-world use  
